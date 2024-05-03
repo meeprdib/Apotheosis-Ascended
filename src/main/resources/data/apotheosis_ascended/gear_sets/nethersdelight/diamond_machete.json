@@ -1,0 +1,13 @@
+{
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "nethersdelight"
+	}],
+	"weight": 25,
+	"quality": 3,
+	"stack": {
+		"item": "nethersdelight:diamond_machete"
+	},
+  "min_rarity": "apotheosis:uncommon",
+  "max_rarity": "apotheosis:epic"
+}
