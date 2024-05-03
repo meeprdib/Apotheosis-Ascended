@@ -1,0 +1,16 @@
+{
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "ae2"
+	}],
+  "weight": 85,
+  "quality": 1,
+  "stack": {
+    "item": "ae2:nether_quartz_sword"
+  },
+  "dimensions": [
+    "minecraft:the_end"
+  ],
+  "min_rarity": "apotheosis:rare",
+  "max_rarity": "apotheosis:epic"
+}

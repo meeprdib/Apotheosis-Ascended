@@ -1,0 +1,16 @@
+{
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "ae2"
+	}],
+  "weight": 85,
+  "quality": 1,
+  "stack": {
+    "item": "ae2:nether_quartz_pickaxe"
+  },
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "min_rarity": "apotheosis:uncommon",
+  "max_rarity": "apotheosis:epic"
+}
