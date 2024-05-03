@@ -1,0 +1,13 @@
+{
+    "item.apotheosis.gem.apotheosis_ascended:core/power_eldritch": "Eldritch Power Gem",
+    "item.apotheosis.gem.apotheosis_ascended:core/spell_holy": "Holy Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:core/spell_eldritch": "Eldritch Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:core/spell_ender": "Ender Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:core/spell_ice": "Ice Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:core/spell_nature": "Nature Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:core/spell_blood": "Blood Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:core/spell_evocation": "Evocation Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:core/spell_fire": "Fire Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:core/spell_general": "All Spell Level Gem",
+    "item.apotheosis.gem.apotheosis_ascended:core/spell_lightning": "Lightning Level Gem"
+}
