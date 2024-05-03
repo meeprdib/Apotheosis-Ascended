@@ -1,0 +1,41 @@
+modLoader="lowcodefml"
+loaderVersion="[46,)"
+
+license="MIT"
+issueTrackerURL="https://github.com/meeprdib/Apotheosis-Ascended/issues"
+showAsResourcePack=false
+
+[[mods]]
+  modId="apotheosis_ascended"
+  version="1.20-1.0"
+  displayName="Apotheosis Ascended"
+  updateJSONURL="https://github.com/meeprdib/Apotheosis-Ascended"
+  displayURL="https://github.com/meeprdib/Apotheosis-Ascended"
+  logoFile="logo.png"
+  credits="me"
+  authors="Me! Also Ace."
+  description='''
+  An Apotheosis addon focusing on integration and compatibility
+  '''
+  displayTest="MATCH_VERSION"
+
+[[dependencies.apotheosis_ascended]]
+  modId="forge"
+  mandatory=true
+  versionRange="[47,)"
+  ordering="NONE"
+  side="BOTH"
+
+[[dependencies.apotheosis_ascended]]
+  modId="minecraft"
+  mandatory=true
+  versionRange="[1.20]"
+  ordering="NONE"
+  side="BOTH"
+
+[[dependencies.apotheosis_ascended]]
+  modId="additional_attributes"
+  mandatory=true
+  versionRange="[1.0,)"
+  ordering="NONE"
+  side="BOTH"
