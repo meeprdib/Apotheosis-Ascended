@@ -1,0 +1,36 @@
+{
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "irons_spellbooks"
+	}],
+	"variant": "spell_nature",
+	"weight": 5,
+	"quality": 0,
+	"min_rarity": "epic",
+	"unique": true,
+	"dimensions": [],
+	"bonuses": [{
+			"type": "apotheosis:attribute",
+			"gem_class": {
+				"key": "anything",
+				"types": [
+					"sword",
+					"trident",
+					"heavy_weapon",
+					"curios:spellbook",
+					"chestplate",
+					"leggings",
+					"boots",
+					"helmet"
+				]
+			},
+			"attribute": "additional_attributes:spell_school_nature",
+			"operation": "ADDITION",
+			"values": {
+				"epic": 1,
+				"mythic": 2,
+				"ancient": 3
+			}
+		}
+	]
+}
