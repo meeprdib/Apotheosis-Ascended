@@ -1,0 +1,54 @@
+{
+    "conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "aether"
+	}],
+	"weight": 50,
+	"mainhands": [{
+			"weight": 3,
+			"stack": {
+				"item": "aether:valkyrie_lance"
+			}
+		},
+		{
+			"weight": 3,
+			"stack": {
+				"item": "aether:valkyrie_axe"
+			}
+		},
+		{
+			"weight": 2,
+			"stack": {
+				"item": "aether:valkyrie_pickaxe"
+			}
+		}
+	],
+	"offhands": [],
+	"boots": [{
+		"weight": 1,
+		"stack": {
+			"item": "aether:valkyrie_boots"
+		}
+	}],
+	"leggings": [{
+		"weight": 1,
+		"stack": {
+			"item": "aether:valkyrie_leggings"
+		}
+	}],
+	"chestplates": [{
+		"weight": 1,
+		"stack": {
+			"item": "aether:valkyrie_chestplate"
+		}
+	}],
+	"helmets": [{
+		"weight": 1,
+		"stack": {
+			"item": "aether:valkyrie_helmet"
+		}
+	}],
+	"tags": [
+		"the_aether"
+	]
+}
