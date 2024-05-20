@@ -1,6 +1,10 @@
 {
+    "conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "cataclysm"
+	}],
     "weight": 1,
-    "quality": 10,
+    "quality": 7,
     "stack": {
         "item": "cataclysm:monstrous_helm"
     },

@@ -1,4 +1,8 @@
 {
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "ice_and_fire_spellbooks"
+	}],
     "weight": 1,
     "quality": 10,
     "stack": {

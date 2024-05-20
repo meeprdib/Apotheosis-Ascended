@@ -1,4 +1,8 @@
 {
+	"conditions": [{
+		"type": "forge:mod_loaded",
+		"modid": "cataclysm"
+	}],
 	"weight": 100,
 	"quality": 5,
 	"stack": {
