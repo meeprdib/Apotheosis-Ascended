@@ -1,0 +1,12 @@
+{
+    "weight": 1,
+    "quality": 10,
+    "stack": {
+        "item": "cataclysm:the_incinerator"
+    },
+    "min_rarity": "apotheosis:epic",
+    "max_rarity": "apotheosis:mythic",
+    "dimensions": [
+        "minecraft:overworld"
+    ]
+}

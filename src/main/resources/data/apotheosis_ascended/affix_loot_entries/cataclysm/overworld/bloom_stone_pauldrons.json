@@ -1,0 +1,12 @@
+{
+	"weight": 100,
+	"quality": 5,
+	"stack": {
+		"item": "cataclysm:bloom_stone_pauldrons"
+	},
+	"min_rarity": "apotheosis:uncommon",
+	"max_rarity": "apotheosis:rare",
+	"dimensions": [
+		"minecraft:overworld"
+	]
+}
