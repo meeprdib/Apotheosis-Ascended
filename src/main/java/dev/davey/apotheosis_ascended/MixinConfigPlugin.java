@@ -22,9 +22,6 @@ public class MixinConfigPlugin implements IMixinConfigPlugin {
 
     @Override
     public boolean shouldApplyMixin(String targetClassName, String mixinClassName) {
-        if (mixinClassName.equals("dev.davey.apotheosis_ascended.mixin.GunModifierHelperMixin")) {
-            return isModLoaded("scguns");
-        }
         return true;
     }
 
